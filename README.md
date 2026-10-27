@@ -238,4 +238,4 @@ This repository serves as the official landing page for MapSource. The software 
 **Get the most recent version of MapSource today!**
 
 ---
-**Last updated:** 2026-10-26 21:27:57 UTC
+**Last updated:** 2026-10-27 01:16:17 UTC
